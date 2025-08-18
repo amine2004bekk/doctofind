@@ -41,13 +41,13 @@ class DefaultFirebaseOptions {
   }
 
   static const FirebaseOptions web = FirebaseOptions(
-    apiKey: 'AIzaSyBkKCz44fps84zeJoFVp9eBgu2ez9ZifSI',
-    appId: '1:473168434465:web:8068e76a11c971d203da60',
-    messagingSenderId: '473168434465',
-    projectId: 'projetpfe-d4ede',
-    authDomain: 'projetpfe-d4ede.firebaseapp.com',
-    storageBucket: 'projetpfe-d4ede.firebasestorage.app',
-    measurementId: 'G-6NXD9H37E0',
+    apiKey: 'your api firebase',
+    appId: '1',
+    messagingSenderId: '',
+    projectId: '',
+    authDomain: '',
+    storageBucket: '',
+    measurementId: '',
   );
 
   static const FirebaseOptions android = FirebaseOptions(
@@ -59,32 +59,32 @@ class DefaultFirebaseOptions {
   );
 
   static const FirebaseOptions ios = FirebaseOptions(
-    apiKey: 'AIzaSyDrDJBdGmcbZqo0rACa6uNYvy8LIj4uIW4',
-    appId: '1:473168434465:ios:f143ff2570ad5a4303da60',
-    messagingSenderId: '473168434465',
-    projectId: 'projetpfe-d4ede',
-    storageBucket: 'projetpfe-d4ede.firebasestorage.app',
-    iosClientId: '473168434465-nib23pmar7dmct5gfb6jdgnulk2pm108.apps.googleusercontent.com',
-    iosBundleId: 'com.example.flutterApplication2',
+    apiKey: '',
+    appId: '',
+    messagingSenderId: '',
+    projectId: '',
+    storageBucket: '',
+    iosClientId: '',
+    iosBundleId: '',
   );
 
   static const FirebaseOptions macos = FirebaseOptions(
-    apiKey: 'AIzaSyDrDJBdGmcbZqo0rACa6uNYvy8LIj4uIW4',
-    appId: '1:473168434465:ios:f143ff2570ad5a4303da60',
-    messagingSenderId: '473168434465',
-    projectId: 'projetpfe-d4ede',
-    storageBucket: 'projetpfe-d4ede.firebasestorage.app',
-    iosClientId: '473168434465-nib23pmar7dmct5gfb6jdgnulk2pm108.apps.googleusercontent.com',
-    iosBundleId: 'com.example.flutterApplication2',
+    apiKey: '',
+    appId: '',
+    messagingSenderId: '',
+    projectId: '',
+    storageBucket: '',
+    iosClientId: '',
+    iosBundleId: '',
   );
 
   static const FirebaseOptions windows = FirebaseOptions(
-    apiKey: 'AIzaSyBkKCz44fps84zeJoFVp9eBgu2ez9ZifSI',
-    appId: '1:473168434465:web:94e1ef201050548203da60',
-    messagingSenderId: '473168434465',
-    projectId: 'projetpfe-d4ede',
-    authDomain: 'projetpfe-d4ede.firebaseapp.com',
-    storageBucket: 'projetpfe-d4ede.firebasestorage.app',
-    measurementId: 'G-5LM8GNXY10',
+    apiKey: '',
+    appId: '',
+    messagingSenderId: '',
+    projectId: '',
+    authDomain: '',
+    storageBucket: '',
+    measurementId: '',
   );
 }
