@@ -1,7 +1,7 @@
 # doctofind
 
-A new Flutter project.
-
+DoctorFind is a mobile application designed for clients to easily search, find, and connect with doctors. The app provides a user-friendly interface to browse doctors by specialty, location, or availability, while integrating with a doctor management platform to ensure accurate profiles and appointment scheduling.
+ ![Alt text](images/logo.png)  
 ## Getting Started
 
 This project is a starting point for a Flutter application.
@@ -14,4 +14,5 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+
 
